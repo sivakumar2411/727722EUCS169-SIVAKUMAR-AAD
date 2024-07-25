@@ -1,0 +1,16 @@
+.SignUpSideBar{
+    background: url("../Images/SignUp.jpg");
+    background-size: 170%;
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+}
+
+.LogInSideBar{
+    background: url("../Images/LogIn.jpg");
+    background-size: 170%;
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+}
+
